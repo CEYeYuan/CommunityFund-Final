@@ -21,4 +21,5 @@ friends can send instant message with each other
 
 ## Technology used:
 Backend: php (CodeIgniter as framework)
-Front end: HTML CSS JAVASCRIPT		
+Front end: HTML CSS JAVASCRIPT	
+Database : MYSQL
