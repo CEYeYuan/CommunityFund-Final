@@ -1,0 +1,27 @@
+.main-container {
+	margin-top: 5%;
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+	overflow: hidden;
+}
+.chat {
+	padding-left: 40%;
+	width: 100%;
+	text-align: left;
+	min-height: 180px;
+	max-height: 180px;
+	overflow-y: auto;
+}
+
+.left {
+	margin-right: 5em;
+}
+
+.right {
+	
+}
+
+textarea {
+	margin-top: 5%;
+}

@@ -1,0 +1,43 @@
+.mini {
+	position: absolute;
+	display: block;
+	height: 120px;
+	width: 230px;
+	background-color: red;
+	z-index: 1;
+	display: none;
+}
+.mini:hover {
+	cursor: pointer;
+}
+
+.mini .left-side {
+	float: left;
+	display: inline-block;
+	max-height: 92%;
+	max-width: 92%;
+}
+
+.mini .left-side img {
+	max-width: 100%;
+	max-height: 100%;
+	margin-left: 4%;
+	margin-top: 4%;
+}
+.mini .right-side {
+	display: inline;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.mini .right-side h3:first-child {
+	padding-top: 8%;
+}
+
+.mini .right-side h3 {
+	font-size: 1em;
+	padding-top: 2%;
+	text-align: center;
+	white-space: nowrap;
+	overflow: hidden;
+}
